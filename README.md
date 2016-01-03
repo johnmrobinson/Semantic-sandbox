@@ -5,7 +5,7 @@ Getting this setup on github was super easy. From GitHub Desktop, just "add repo
 * git init
 * set master on github
 
-All you have to do is do a "comit". This will do a 
+All you have to do is do a "commit". This will do a 
 
 * `git add -A`
 * `git push`
